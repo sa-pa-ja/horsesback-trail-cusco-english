@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2025.1.28)  10 MAY 2025 17:04
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2025.1.28)  10 MAY 2025 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -844,14 +844,14 @@ LaTeX Font Info:    ... okay on input line 5.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(12.0pt, 340.19536pt, 12.0pt)
+* h-part:(L,W,R)=(34.1433pt, 295.90877pt, 34.1433pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=340.19536pt
+* \textwidth=295.90877pt
 * \textheight=244.6939pt
-* \oddsidemargin=-60.26999pt
-* \evensidemargin=-60.26999pt
+* \oddsidemargin=-38.1267pt
+* \evensidemargin=-38.1267pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -941,26 +941,13 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-th
 eorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (english.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
-
-(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
-
-(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 8.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 8.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 8.
-
+) (english.nav) (title.tex)
 
 [1
+
+]
+
+[2
 
 ]
 \tf@nav=\write6
@@ -981,12 +968,12 @@ Package rerunfilecheck Info: File `english.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21213 strings out of 408650
- 403911 string characters out of 5745262
- 778068 words of memory out of 5000000
- 43837 multiletter control sequences out of 15000+600000
- 563915 words of font info for 63 fonts, out of 8000000 for 9000
+ 21265 strings out of 408650
+ 405689 string characters out of 5745262
+ 777059 words of memory out of 5000000
+ 43907 multiletter control sequences out of 15000+600000
+ 559253 words of font info for 44 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,16n,123p,422b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,123p,422b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on english.pdf (1 page).
+Output written on english.pdf (2 pages).
