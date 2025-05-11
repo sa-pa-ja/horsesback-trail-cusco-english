@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2025.1.28)  10 MAY 2025 17:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2025.1.28)  10 MAY 2025 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -797,21 +797,89 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/natbib\bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
-(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeEastLa
-nsing.sty
 (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemer
 ounded.sty)
-(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemei
-nfolines.sty)
-(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemes
-pruce.sty)))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box78
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen308
+\pgf@nodesepend=\dimen309
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen310
+\pgffor@skip=\dimen311
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count348
+\pgfplotmarksize=\dimen312
+)
+\tikz@lastx=\dimen313
+\tikz@lasty=\dimen314
+\tikz@lastxsaved=\dimen315
+\tikz@lastysaved=\dimen316
+\tikz@lastmovetox=\dimen317
+\tikz@lastmovetoy=\dimen318
+\tikzleveldistance=\dimen319
+\tikzsiblingdistance=\dimen320
+\tikz@figbox=\box79
+\tikz@figbox@bg=\box80
+\tikz@tempbox=\box81
+\tikz@tempbox@bg=\box82
+\tikztreelevel=\count349
+\tikznumberofchildren=\count350
+\tikznumberofcurrentchild=\count351
+\tikz@fig@count=\count352
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count353
+\pgfmatrixcurrentcolumn=\count354
+\pgf@matrix@numberofcolumns=\count355
+)
+\tikz@expandcount=\count356
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))))
 (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
 x.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
-\g__graphics_track_int=\count348
-\l__pdf_internal_box=\box78
-\g__pdf_backend_annotation_int=\count349
-\g__pdf_backend_link_int=\count350
+\g__graphics_track_int=\count357
+\l__pdf_internal_box=\box83
+\g__pdf_backend_annotation_int=\count358
+\g__pdf_backend_link_int=\count359
 ) (english.aux)
 \openout1 = `english.aux'.
 
@@ -941,13 +1009,33 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-th
 eorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (english.nav) (title.tex)
+) (english.nav)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 5.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 5.
+
+(title.tex)
 
 [1
 
 ]
 
 [2
+
+]
+
+[3
 
 ]
 \tf@nav=\write6
@@ -968,12 +1056,12 @@ Package rerunfilecheck Info: File `english.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21265 strings out of 408650
- 405689 string characters out of 5745262
- 777059 words of memory out of 5000000
- 43907 multiletter control sequences out of 15000+600000
- 559253 words of font info for 44 fonts, out of 8000000 for 9000
+ 24306 strings out of 408650
+ 474342 string characters out of 5745262
+ 842877 words of memory out of 5000000
+ 46904 multiletter control sequences out of 15000+600000
+ 561778 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,16n,123p,422b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,123p,422b,827s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on english.pdf (2 pages).
+Output written on english.pdf (3 pages).
