@@ -1,11 +1,21 @@
 \usepackage{xcolor}
 \usepackage{amsfonts}
 \usepackage{amsthm}
-\graphicspath{{img/}}
 
 \usepackage{ragged2e}\justifying
 \usepackage{booktabs}
 \usepackage{bibentry}
+\usepackage{float}
+%\usepackage{textcomp}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\graphicspath{{img/}}
+\usepackage{wallpaper}
+\definecolor{TitleColor}{HTML}{FFB703} % Naranja vibrante
+\definecolor{SubtitleColor}{HTML}{FB8500} % Naranja fuego
+\definecolor{UnderlineColor}{HTML}{8B4513} % Marrón tierra
+
+\definecolor{DateColor}{HTML}{4682B4}
 
 %\usetheme{EastLansing}
 %\usetheme[secheader]{Madrid}
@@ -13,7 +23,7 @@
 \setbeamersize{text margin left=12mm, text margin right=12mm}
 
 %\setbeamertemplate{footline}[frame number]
-\setbeamertemplate{navegation symbols}{}
+\setbeamertemplate{navigation symbols}{}
 \setbeamerfont{frametitle}{series=\bfseries}
 
 \setbeamertemplate{frametitle}[shadow]
@@ -51,8 +61,50 @@
 	\end{minipage}
 }
 
+%\setlength{\parskip}{5pt}
+%\setbeamersize{text margin left=12mm, text margin right=12mm}
 
-\title{Learning English}
-\date{\today}
+%\setbeamertemplate{frametitle}{
+%\begin{centering}
+%	\vspace{0.3cm}
+%	\textbf{\insertframetitle}\\
+%%	\rule{\linewidth}{1.25pt}
+%%\hspace*{-\dimexpr\leftmargin+\rightmargin}\rule{\dimexpr\paperwidth}{2pt}
+%%\makebox[\paperwidth]{\rule{\paperwidth}{2pt}}
+%\end{centering}
+%}
+
+
+\setbeamertemplate{frametitle}{
+	\begin{center}
+		\textbf{\insertframetitle}  % Título centrado y en negrita
+%		{\small \insertframesubtitle} % Subtítulo centrado y más pequeño
+	\end{center}
+	\begin{tikzpicture}[remember picture, overlay]
+		\node[anchor=north, yshift=-35pt] at (current page.north) 
+		{\rule{\paperwidth}{2pt}}; % Línea justo debajo del título
+	\end{tikzpicture}
+}
+
+
+
+\title{\textbf{\textcolor{TitleColor}{Learning English}}}
+\author{
+\textbf{\large\textcolor{SubtitleColor}{ Horsesback Trail Cusco\inst{1}\and
+		Pati\~no Jauja, Saturnino\inst{2}\and
+		Tourism and Cultural Alliance\inst{3} }}
+% support@htcusco.com\inst{4} \and
+% https://htcusco.com
+}
+
+\institute{
+\textbf{\textcolor{SubtitleColor}{
+\inst{1} Founder \& General Director\\
+\inst{2} Adventure \& Tourism Company - Cusco, Peru\\
+\inst{3} Alliance for Tourism Development
+}}
+}
+
+\date{\textbf{\textcolor{DateColor}{\today}}}
 
 
